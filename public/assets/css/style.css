@@ -1,0 +1,63 @@
+.error{
+    color: red;
+    width: 100%;
+    margin-top: 2px;
+    padding-left: 5px;
+}
+
+.tr{
+    border: none !important;
+}
+
+.dt-button{
+    border-style: none !important;
+}
+
+.buttons-copy{
+    background: lightskyblue !important;
+    color: white !important;
+}
+
+.buttons-excel{
+    background: #00AC47 !important;
+    color: white !important;
+}
+
+.buttons-csv{
+    background: #E1E1E2 !important;
+    color: rgb(1, 159, 1) !important;
+}
+
+.buttons-pdf{
+    background: rgb(180, 59, 59) !important;
+    color: white !important;
+}
+
+.buttons-copy .buttons-csv .buttons-pdf{
+    margin-right: 20px;
+}
+
+.H{
+    display: flex;
+    justify-content: space-between;
+}
+
+.paging_full_numbers{
+    float: right;
+    text-align: right;
+    margin-top: 5px;
+}
+
+.spanBold{
+    font-weight: bold;
+}
+
+.display{
+    display: flex;
+}
+
+.pt90{
+    width: 90%;
+}
+
+
